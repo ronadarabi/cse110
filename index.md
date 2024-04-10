@@ -26,4 +26,4 @@ I also love to watch movies. These are my top 5 favorite currently.
 4. La Haine
 5. Good Will Hunting
 
-I can't forget to mention that I have a cat! Her name is [Zuri](cse110/zuri.jpg) and she is 6 years old. 
+I can't forget to mention that I have a cat! Her name is [Zuri](/zuri.jpg) and she is 6 years old. 
